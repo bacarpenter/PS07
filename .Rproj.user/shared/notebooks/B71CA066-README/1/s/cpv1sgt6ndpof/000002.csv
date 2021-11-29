@@ -1,0 +1,2 @@
+"0","fruit <- data.frame(fruit = c(""apple"", ""orange"", ""banna""),"
+"0","                    count = c(125, 56, 92))"
